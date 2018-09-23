@@ -2,11 +2,11 @@
 - 1、熟练搭建wamp的本地运行环境
 - 2、熟练使用php的基本语法，基本的数据类型，函数，循环控制（实验楼的php的编程入门的实验）
 - 3、熟练使用php文件处理，字符串处理，json处理，xml处理
-- 3、了解php的类与对象。
-- 4、重点了解php的array和stdClass
-- 5、了解下几个php的经典设计模式（单例模式，代理模式，依赖注入模式，适配器模式，工厂模式等）
-- 6、了解php的包管理工具composer的用法
-- 7、了解php的编码规范（https://github.com/PizzaLiu/PHP-FIG）
+- 4、了解php的类与对象。
+- 5、重点了解php的array和stdClass
+- 6、了解下几个php的经典设计模式（单例模式，代理模式，依赖注入模式，适配器模式，工厂模式等）
+- 7、了解php的包管理工具composer的用法
+- 8、了解php的编码规范（https://github.com/PizzaLiu/PHP-FIG）
 
 
 
