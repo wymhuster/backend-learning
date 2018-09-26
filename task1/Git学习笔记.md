@@ -109,11 +109,11 @@
 
     
 ----------
-**远程分支和本地分支更新**
+**标签管理**
 ------------------
 
 
-    git tag <tag-name>      //为当前commit版本创建tag标签
+    git tag <tag-name> <commit-id>    //为对应版本打上标签，无commit-id则为当前版本打上标签
     git tag -a <tag-name> -m <note>      //指定标签信息
     git tag     //查看所有标签
     git push origin <tag-name>      //推送本地标签
