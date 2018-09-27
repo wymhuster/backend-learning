@@ -6,7 +6,7 @@
 - 5、重点了解php的array和stdClass
 - 6、了解下几个php的经典设计模式（单例模式，代理模式，依赖注入模式，适配器模式，工厂模式等）
 - 7、了解php的包管理工具composer的用法
-- 8、了解php的编码规范（https://github.com/PizzaLiu/PHP-FIG）
+- 8、了解php的编码规范（https://github.com/PizzaLiu/PHP-FIG/blob/master/PSR-2-coding-style-guide-cn.md）
 
 
 
