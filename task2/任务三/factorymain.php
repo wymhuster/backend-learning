@@ -1,5 +1,6 @@
 <?php
 
+//工厂模式
 include "factory.php";
 
 $com1 = ComputerFactory::returnGoods("Dell");
