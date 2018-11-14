@@ -54,11 +54,3 @@ Route::get('clear', function () {
     Cookie::queue(Cookie::forget('user_id'));
     return 'success';
 }); 
-
-Route::get('test', function () {
-    $is_exist = DB::table('goods')->join('shop', 'shop.id', '=', 'goods.shop_id')
-        ->where('goods.id', 4)
-        ->where('shop.user_id', 1)
-        ->where('goods.is_deleted', 1)->exists();
-    return var_dump($is_exist);
-});
